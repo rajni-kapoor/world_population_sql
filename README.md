@@ -32,3 +32,6 @@ fies: world_population, countries_details, data_2023
 13. lowest female population % in country in 2023.  
 14. Show the top 3 countries where population grew the most from 2020 to 2023.  
 15. which country has the highest share of population of world population in 2020. 
+
+**Findings**
+China was the most populated country in year 2020, but in 2023 India surpassed China and stood at top. Tokelau was at the bottom for having the least population in the world, but also have the highest growth at 39% from 2020 to 2023. Monaco has the highest density. Reunion and Saint Pierre & Miquelin has 100 % population lives in urban area. Area wise, Russia stands at the top followed by China and US for having the biggest land area. The most popuated region is Asia, while Oceania has the lowest population among the all regions. Maximum numbers of immigrants who are leaving their country are from Asia and maximum people are migrating to Europe. Highest female population is in China and India, however lowest female population percentage can be seen in Qatar in 27% only. Lastly, China has the highest share of population in the world at 18.47 % followed closely by India at 17.7%.
