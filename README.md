@@ -19,19 +19,19 @@ fies: world_population, countries_details, data_2023
 *Questions to analyze*
 1. Display the top 10 countries population wise in 2023 and 2020.  
 2. Display the countries which have lowest population in 2023 and 2020.  
-3. show the country which has highest growth in population from 2020 to 2023.  
-4. show the country which is highly densed.  
+3. Show the country which has highest growth in population from 2020 to 2023.  
+4. Show the country which is highly densed.  
 5. Show top 5 countries with high density.  
-6. show the country which has highest urban population.  
-7. show the top 10 country with largest land area and also show its capital, continent and  region.  
+6. Show the country which has highest urban population.  
+7. Show the top 10 country with largest land area and also show its capital, continent and  region.  
 8. Show the region wise population in year 2023.  
 9. Show the average median age in different subregions from highest to lowest or Which subregion has highest median age.  
 10. Show the top 3 continent population wise with the rank and also shows respective median age.  
 11. Show the top 3 regions where most migrants are coming in 2023.  
-12. male and female population in each country in 2023.  
-13. lowest female population % in country in 2023.  
+12. Categorize the male and female population in each country in 2023.  
+13. Find the country which has lowest female population % in 2023.  
 14. Show the top 3 countries where population grew the most from 2020 to 2023.  
-15. which country has the highest share of population of world population in 2020. 
+15. Which country has the highest share of population of world population in 2020. 
 
-**Findings**
+**Findings**  
 China was the most populated country in year 2020, but in 2023 India surpassed China and stood at top. Tokelau was at the bottom for having the least population in the world, but also have the highest growth at 39% from 2020 to 2023. Monaco has the highest density. Reunion and Saint Pierre & Miquelin has 100 % population lives in urban area. Area wise, Russia stands at the top followed by China and US for having the biggest land area. The most popuated region is Asia, while Oceania has the lowest population among the all regions. Maximum numbers of immigrants who are leaving their country are from Asia and maximum people are migrating to Europe. Highest female population is in China and India, however lowest female population percentage can be seen in Qatar in 27% only. Lastly, China has the highest share of population in the world at 18.47 % followed closely by India at 17.7%.
