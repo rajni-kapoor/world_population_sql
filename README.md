@@ -14,7 +14,7 @@ Steps taken
 Creating a database called Population in Microsoft SQL Server Management Studio  
 Cleaning the data like removing unwanted columns and removing duplicate values
 Importing data (3 excel files)
-fies: world_population, countries_details, data_2023
+files: world_population, countries_details, data_2023
 
 *Questions to analyze*
 1. Display the top 10 countries population wise in 2023 and 2020.  
